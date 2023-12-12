@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AKATWIJUKA-ELIA
-- 👀 I’m interested in pyython programming
+- 👀 I’m interested in python programming and web development
 - 🌱 I’m currently persuing a Bachelors of Science in SOFTWARE ENGINEERING...
 - 💞️ I’m looking to collaborate on python projects
 - 📫 eliaakjtrnq@gmail.com
