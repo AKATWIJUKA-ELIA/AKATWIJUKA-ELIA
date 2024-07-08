@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AKATWIJUKA ELIA</h1>
 <h3 align="center">I'M  a PASSSIONATE SOFTWARE ENGINEER</h3>
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Coding" width="400" src="https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700">
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
