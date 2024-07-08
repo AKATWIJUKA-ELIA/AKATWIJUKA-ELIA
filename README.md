@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AKATWIJUKA ELIA</h1>
 <h3 align="center">I'M  a PASSSIONATE SOFTWARE ENGINEER</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/imgres?q=coding%20gif&imgurl=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F1631947648964785474%2F81CBA15178466DD47195A239232202E78987B714%2F%3Fimw%3D637%26imh%3D358%26ima%3Dfit%26impolicy%3DLetterbox%26imcolor%3D%2523000000%26letterbox%3Dtrue&imgrefurl=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&docid=OqQy2CDVrLaFHM&tbnid=MJ0GCyn3Wm5EDM&vet=12ahUKEwi-p56t_5eHAxXHB9sEHUTxBsgQM3oECCkQAA..i&w=256&h=256&hcb=2&ved=2ahUKEwi-p56t_5eHAxXHB9sEHUTxBsgQM3oECCkQAA)">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
