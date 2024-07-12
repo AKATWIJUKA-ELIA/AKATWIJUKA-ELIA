@@ -1,8 +1,6 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <h1 align="center">Hi 👋, I'm AKATWIJUKA ELIA</h1>
 <h3 align="center">I'M a PASSSIONATE SOFTWARE ENGINEER</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **React Next Js**
 
 - 💬 Ask me about **WEB DEVELOPMENT**
