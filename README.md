@@ -13,7 +13,7 @@
 <a href="https://twitter.com/@the_light_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@the_light_tech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akatwijuka-elia-64066b295?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3blll%2bujivslaoqxxxsxg2kq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akatwijuka-elia-64066b295?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3blll%2bujivslaoqxxxsxg2kq%3d%3d" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22681878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22681878" height="30" width="40" /></a>
-  <a href='https://lighttech.vercel.app/'>my website</a>
+  <a href='https://lightcodes.vercel.app/'>my website</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
