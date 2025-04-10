@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akatwijuka-elia&show_icons=true&locale=en" alt="akatwijuka-elia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akatwijuka-elia&" alt="akatwijuka-elia" /></p>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=AKATWIJUKA-ELIA&bg_color=000000&color=13b110&line=00b31e&point=9d2f2f&area=true&hide_border=true&" alt="akatwijuka-elia"></a>
