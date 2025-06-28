@@ -27,7 +27,7 @@
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=AKATWIJUKA-ELIA&bg_color=000000&color=13b110&line=00b31e&point=9d2f2f&area=true&hide_border=true&" alt="akatwijuka-elia"></a>
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=AKATWIJUKA-ELIA&bg_color=101023&color=9e4c98&line=9e4c98&point=072ada&area=true&hide_border=true" alt="Akatwijuka-elia"></a>
 
-[![AKATWIJUKA-ELIA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AKATWIJUKA-ELIA&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/AKATWIJUKA-ELIA/github-readme-activity-graph)
+[![AKATWIJUKA-ELIA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AKATWIJUKA-ELIA&bg_color=051442&color=9e4c98&line=029205&point=ff05f7&area=true&hide_border=true)](https://github.com/AKATWIJUKA-ELIA/github-readme-activity-graph)
 
 # My Portfolio
 
