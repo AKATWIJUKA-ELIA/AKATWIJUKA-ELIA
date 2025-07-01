@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-🔭 I’m currently working on *https://shopcheap.vercel.app*<br>👯 I’m looking to collaborate on Python, React and ML  projects <br>🌱 I’m learning continuously<br>⚡ Riddle : when you throw a white stone in the red Sea, what does it become 
+# Hi, I'm AKATWIJUKA ELIA 
+## a Passionate Web and Mobile Developer
+🔭 I’m currently working on *https://shopcheap.vercel.app*<br>👯 I’m looking to collaborate on Python, React and ML  projects <br>🌱 I’m learning currently learning React Native<br>⚡ Riddle : when you throw a white stone in the red Sea, what does it become 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akatwijuka-elia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22681878) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@The_light_tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eliaakjtrnq@gmail.com)
