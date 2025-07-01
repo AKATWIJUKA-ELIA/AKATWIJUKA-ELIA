@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm AKATWIJUKA ELIA</h1>
-<h3 align="center">I'M a PASSSIONATE SOFTWARE ENGINEER</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **React Next Js**
 
-- 💬 Ask me about **WEB DEVELOPMENT**
+# 💫 About Me:
+🔭 I’m currently working on *https://shopcheap.vercel.app*<br>👯 I’m looking to collaborate on Python, React and ML  projects <br>🌱 I’m learning continuously<br>⚡ Riddle : when you throw a white stone in the red Sea, what does it become 
 
-- 📫 How to reach me **eliaakjtrnq@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akatwijuka-elia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22681878) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@The_light_tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eliaakjtrnq@gmail.com) 
+
 
 
 <h3 align="left">Connect with me:</h3>
