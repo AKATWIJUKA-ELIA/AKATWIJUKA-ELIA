@@ -17,16 +17,17 @@
     className="h-auto"
   />
   <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=akatwijuka-elia&show_icons=true&locale=en&layout=compact"
+    alt="akatwijuka-elia"
+    className="h-auto"
+  />
+  <img
     src="https://github-readme-stats.vercel.app/api?username=akatwijuka-elia&theme=radical&show_icons=true&locale=en"
     alt="akatwijuka-elia"
     className="h-auto"
   />
   
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=akatwijuka-elia&show_icons=true&locale=en&layout=compact"
-    alt="akatwijuka-elia"
-    className="h-auto"
-  />
+  
   
   
 </div>
