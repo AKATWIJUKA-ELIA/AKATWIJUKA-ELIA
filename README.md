@@ -1,5 +1,4 @@
 
-# 💫 About Me:
 # Hi, I'm AKATWIJUKA ELIA 
 ##  Web Dev, Mobile Dev, Networking && Photography 
 🔭 I’m currently working on *https://shopcheap.vercel.app*<br>👯 I’m looking to collaborate on Python, React and ML  projects <br>🌱 I’m learning currently learning React Native<br>⚡ Riddle : when you throw a white stone in the red Sea, what does it become 
@@ -27,7 +26,7 @@
       alt="GitHub Streak"
       className="rounded-lg shadow-lg h-auto max-w-full"
     />
-    <img  alt="Coding" align-left width="400" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--     <img  alt="Coding" align-left width="400" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
   </div>
   
 </div>
