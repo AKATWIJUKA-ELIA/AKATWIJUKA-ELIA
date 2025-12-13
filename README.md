@@ -1,7 +1,7 @@
 
 # Hi, I'm AKATWIJUKA ELIA 
 ##  Web Developer,and Software Engineer 
-🔭 I’m currently working on *https://shopcheapug.com*<br>👯 I’m looking to collaborate on Python, React and ML  projects <br>🌱 I’m learning currently learning React Native<br>⚡ Riddle : when you throw a white stone in the red Sea, what does it become <br> 🎉Leisure :I Love doing Nature Photography && Gaming
+🔭 I’m currently working on *https://shopcheapug.com*<br>👯 I’m looking to collaborate on Python, React and ML  projects <br>🌱 I’m learning currently learning React Native<br>⚡ Riddle : when you throw a white stone in the red Sea, what does it become ?? <br> 🎉Leisure :I Love doing Nature Photography && Gaming
 
 ## 🌐 Socials:
 
