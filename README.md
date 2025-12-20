@@ -85,8 +85,8 @@ I'm constantly learning and expanding my skill set. Some areas I'm currently exp
 
 ## 📫 Let's Connect!
 
-- **Portfolio Website**: [portfolio ](http://lightcodes.vercel.app/)
-- **LinkedIn**: https://www.linkedin.com/in/akatwijuka-elia-64066b295/
+- **Portfolio Website**: [portfolio ](http://lighttech.me)
+- **LinkedIn* https://www.linkedin.com/in/akatwijuka-elia-light/
 - **Email**: eliaakjtrnq@gmail.com
 
 ---
