@@ -51,7 +51,7 @@ Welcome to my portfolio! I'm **Akatwijuka Elia**, a passionate and dedicated dev
 ## 🚀 About Me
 
 - 💻 **Who I Am**  
-  A **Software developer and engineer** with a keen interest in *web development, AI, mobile Development.*. I create  user-friendly web apps, scalable systems] to meet the customers needs
+  A **Software developer and engineer** with a keen interest in *web development, AI, mobile Development.*. I create  user-friendly web apps, scalable systems to meet the customers needs
 ---
 
 ## 🛠️ Skills
@@ -70,7 +70,7 @@ Here are some of the technologies and tools I use:
 ### **ShopCheap**
 - **Description**: Online Store
 - **Tech Stack**: TypeScript, Node, JavaScript
-- **Live Demo**: [Check It out](https://shopcheap.vercel.app/)
+- **Live Demo**: [Check It out](https://shopcheapug.com)
 
 ---
 
@@ -79,6 +79,7 @@ Here are some of the technologies and tools I use:
 I'm constantly learning and expanding my skill set. Some areas I'm currently exploring:
 - AI
 - Vector Search
+- Redis
 
 ---
 
