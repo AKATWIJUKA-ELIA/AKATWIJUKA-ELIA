@@ -27,7 +27,9 @@
       alt="GitHub Streak"
       className="rounded-lg shadow-lg h-auto max-w-full"
     />
+    <!--
 <img  alt="Coding" align-left width="400" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    -->
   </div>
   
 </div>
