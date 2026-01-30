@@ -1,4 +1,5 @@
 
+
 # Hi, I'm AKATWIJUKA ELIA 
 ##  Software Engineer 
 🔭 I’m currently working on *https://shopcheapug.com*<br>👯 I’m looking to collaborate on Python, React and ML  projects <br>🌱 I’m learning currently learning React Native<br>⚡ Riddle : when you throw a white stone in the red Sea, what does it become ?? <br> 🎉Leisure :I Love doing Nature Photography && Gaming
@@ -73,6 +74,7 @@ Here are some of the technologies and tools I use:
 - **Description**: Online Store
 - **Tech Stack**: TypeScript, Node, JavaScript
 - **Live Demo**: [Check It out](https://shopcheapug.com)
+
 
 ---
 
