@@ -18,11 +18,11 @@
       alt="Top Languages"
       className="rounded-lg shadow-lg h-auto max-w-full"
     />
-    <img
+    <!-- <img
       src="https://github-readme-stats.vercel.app/api?username=akatwijuka-elia&theme=radical&show_icons=true&locale=en"
       alt="GitHub Stats"
       className="rounded-lg shadow-lg h-auto max-w-full"
-    />
+    /> -->
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=akatwijuka-elia&theme=radical"
       alt="GitHub Streak"
