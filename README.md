@@ -54,8 +54,8 @@ Welcome to my portfolio! I'm **Akatwijuka Elia**, a passionate and dedicated dev
 Here are some of the technologies and tools I use:
 
 - **Languages**: TypeScript, JavaScript, Python
-- **Frontend**: React, CSS, HTML
-- **Backend**: Node.js, Express, Django
+- **Frontend**: React, NextJs
+- **Backend**: Node.js, Express, Django, NextJS
 - **Other Tools**: Git, Docker, CI/CD pipelines
 
 ---
@@ -76,6 +76,8 @@ I'm constantly learning and expanding my skill set. Some areas I'm currently exp
 - AI
 - Vector Search
 - Redis
+- Kubernetes and container ochestration tools
+- minikube, kubectl,kubeadm
 
 ---
 
