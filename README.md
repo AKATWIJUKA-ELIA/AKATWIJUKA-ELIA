@@ -65,7 +65,7 @@ Here are some of the technologies and tools I use:
 ### **ShopCheap**
 - **Description**: Online Store
 - **Tech Stack**: TypeScript, Node, JavaScript
-- **Live Demo**: [Check It out](https://shopcheapug.com)
+- **Live Demo**: [Check It out](https://lightcodes.vercel.app/)
 
 
 ---
