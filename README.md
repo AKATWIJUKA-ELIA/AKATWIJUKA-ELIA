@@ -65,7 +65,7 @@ Here are some of the technologies and tools I use:
 ### **ShopCheap**
 - **Description**: Online Store
 - **Tech Stack**: TypeScript, Node, JavaScript
-- **Live Demo**: [Check It out](https://lightcodes.vercel.app/)
+- **Live Demo**: [Check It out](https://shopcheapug.com)
 
 
 ---
@@ -83,7 +83,7 @@ I'm constantly learning and expanding my skill set. Some areas I'm currently exp
 
 ## 📫 Let's Connect!
 
-- **Portfolio Website**: [portfolio ](http://lighttech.me)
+- **Portfolio Website**: [portfolio ](https://lightcodes.vercel.app/)
 - **LinkedIn* https://www.linkedin.com/in/akatwijuka-elia-light/
 - **Email**: eliaakjtrnq@gmail.com
 
